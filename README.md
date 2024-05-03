@@ -1,85 +1,212 @@
-![2021-github-graduation-social-card-1](https://user-images.githubusercontent.com/6633808/117580730-3ed6e180-b0ae-11eb-86c9-2bd01c7aa8b6.png)
+# [Soft UI Dashboard React](http://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?ref=readme-sudr) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/soft-ui-dashboard-react&text=Check%20Soft%20UI%20Dashboard%20react%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#react%20https://www.creative-tim.com/product/soft-ui-dashboard-react)
 
+![version](https://img.shields.io/badge/version-4.0.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/soft-ui-dashboard-react.svg)](https://github.com/creativetimofficial/soft-ui-dashboard-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-dashboard-react.svg)](https://github.com/creativetimofficial/soft-ui-dashboard-react/issues?q=is%3Aissue+is%3Aclosed)
 
-This repository contains the [yearbook](https://education.github.com/graduation/yearbook) for **GitHub Graduation 2021**. By issuing a pull request to this repository, you can request to be added to the Class of 2021. 
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/500/original/soft-ui-dashboard-material-ui.jpg)
 
-The first 5,000 pull request successfully merged into the repository by May 27 will receive custom swag in the mail. 
+Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Soft UI, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
 
+**Fully Coded Elements**
+Soft UI Dashboard React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using MUI styled api and sx prop. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Premium MUI Dashboard is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
-## Privacy Notice 👀
-Consider that all the information that you add to this repository will be publicly available.
+View [all components here](https://www.creative-tim.com/learning-lab/react/alerts/soft-ui-dashboard/).
 
-- If you don't feel comfortable with displaying your full name, you can include a short name or nickname instead.
+**Documentation built by Developers**
 
-# Who can apply 📝
-We invite any student that has graduated, or plans to graduate, in 2021 to apply to the yearbook. This includes bootcamps, code camps, high school graduates, Master's graduates, Ph. D. Graduates, etc.
+Each element is well presented in very complex documentation.
 
-The eligibility criteria are -
-1. You have been verified as a student with the GitHub Student Developer Pack. Not yet a part of the Pack? [Apply here](https://education.github.com/discount_requests/student_application?utm_source=2021-06-05-GitHubGraduation).
-2. You have not participated in a past GitHub Graduation event.
+You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/react/overview/soft-ui-dashboard/).
 
-# How to join the Class of 2021
+**Example Pages**
 
-Here are two steps to join graduation and receive swag in the mail. 
-1. [Fill out the **swag shipment form**](https://airtable.com/shrM5IigBuRFaj33H). Note: the form needs to be done before creating your Pull Request and does not guarantee participation in the event. Your PR must be successfully merged to be included and only the first 5,000 merged PRs will receive swag.
-2. **Submit a pull request** with your profile information to join the Yearbook and be highlighted in the graduation event.
-3. (optional) Level up your swag and make an additional appearance at graduation by **sharing a story** of a teacher who has made an impact in your education. More info below!
-4. [**Save the date**](http://www.google.com/calendar/event?action=TEMPLATE&dates=20210605T160000Z%2F20210605T180000Z&text=GitHub%20Graduation%202021%20%F0%9F%8E%93&location=twitch.tv%2Fgithubeducation&details=Join%20us%20on%20GitHub%20Campus%20TV%20to%20%22walk%20the%20stage%22%20and%20celebrate%20the%20accomplishments%20of%20this%20year%E2%80%99s%20graduating%20class%20with%20your%20fellow%20developers.%20) (Google calendar invite) and attend graduation 🥳
+If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. Every page is spaced well, with attractive layouts and pleasing shapes. Soft UI Dashboard React has everything you need to quickly set up an amazing project.
 
-## 1. Fill out the swag shipment form.
-Information submitted to [the swag shipment form](https://airtable.com/shrM5IigBuRFaj33H) will only be used to ship swag for graduation. Submitting the form does not guarantee you will receive swag in the mail. Only the first 5,000 graduates to successfully merge their pull request to the Yearbook will receive a shipment.
+View [example pages here](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard).
 
-## 2. Add yourself to Yearbook 🏫
+**HELPFUL LINKS**
 
-Replace `<YOUR-USERNAME>` with your GitHub username in this guide.
+- View [Github Repository](https://github.com/creativetimofficial/soft-ui-dashboard-react)
+- Check [FAQ Page](https://www.creative-tim.com/faq)
 
-### First, create the folder _data/YOUR-USERNAME/ 
-Fork this repository, create a new folder inside the `_data` folder, and name it with your username. It should look something like this `_data/<YOUR-USERNAME>/`. Ex.
+#### Special thanks
+
+During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
+
+- [MUI](https://mui.com/) - The React UI library for faster and easier web development.
+- [React Countup](https://github.com/glennreyes/react-countup) - A lightweight React component that can be used to quickly create animations that display numerical data in a more interesting way.
+- [React ChartJS 2](http://reactchartjs.github.io/react-chartjs-2/#/) - Simple yet flexible React charting for designers & developers.
+- [ChromaJS](https://gka.github.io/chroma.js/) - A small-ish zero-dependency JavaScript library for all kinds of color conversions and color scales.
+- [UUID](https://github.com/uuidjs/uuid) - JavaScript library for generating random id numbers.
+- [Nepcha Analytics](https://nepcha.com?ref=readme) for the analytics tool. Nepcha is already integrated with Soft UI Dashboard React. You can use it to gain insights into your sources of traffic.
+
+Let us know your thoughts below. And good luck with development!
+
+## Table of Contents
+
+- [Versions](#versions)
+- [Demo](#demo)
+- [Quick Start](#quick-start)
+- [Documentation](#documentation)
+- [File Structure](#file-structure)
+- [Browser Support](#browser-support)
+- [Resources](#resources)
+- [Reporting Issues](#reporting-issues)
+- [Technical Support or Questions](#technical-support-or-questions)
+- [Licensing](#licensing)
+- [Useful Links](#useful-links)
+
+## Versions
+
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/soft-ui-dashboard-pro-react?ref=readme-sudr)
+
+| React |
+| ----- |
+
+| [![Soft UI Dashboard React](https://s3.amazonaws.com/creativetim_bucket/products/500/thumb/soft-ui-dashboard-material-ui.jpg?1632195046)](http://demos.creative-tim.com/soft-ui-dashboard-pro-react/#/dashboard?ref=readme-sudr)
+
+## Demo
+
+- [Dashboard](http://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?ref=readme-sudr)
+- [Profile](https://demos.creative-tim.com/soft-ui-dashboard-react/#/profile?ref=readme-sudr)
+- [RTL](https://demos.creative-tim.com/soft-ui-dashboard-react/#/rtl?ref=readme-sudr)
+- [Sign In](https://demos.creative-tim.com/soft-ui-dashboard-react/#/authentication/sign-in?ref=readme-sudr)
+- [Sign Up](https://demos.creative-tim.com/soft-ui-dashboard-react/#/authentication/sign-up?ref=readme-sudr)
+
+[View More](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?ref=readme-sudr).
+
+## Quick start
+
+Quick start options:
+
+- Buy from [Creative Tim](https://www.creative-tim.com/product/soft-ui-dashboard-react?ref=readme-sudr).
+
+## Terminal Commands
+
+1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://nodejs.org/en/download/).
+2. Navigate to the root ./ directory of the product and run `yarn install` or `npm install` to install our local dependencies.
+
+## Documentation
+
+The documentation for the Soft UI Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/react/overview/soft-ui-dashboard/?ref=readme-sudr).
+
+### What's included
+
+Within the download you'll find the following directories and files:
 
 ```
-_data/MonaTheOctocat/
+soft-ui-dashboard-react
+    ├── public
+    │   ├── apple-icon.png
+    │   ├── favicon.png
+    │   ├── index.html
+    │   ├── manifest.json
+    │   └── robots.txt
+    ├── src
+    │   ├── assets
+    │   │   ├── images
+    │   │   └── theme
+    │   │       ├── base
+    │   │       ├── components
+    │   │       ├── functions
+    │   │       ├── index.js
+    │   │       └── theme-rtl.js
+    │   ├── components
+    │   │   ├── SoftAlert
+    │   │   ├── SoftAvatar
+    │   │   ├── SoftBadge
+    │   │   ├── SoftBox
+    │   │   ├── SoftButton
+    │   │   ├── SoftInput
+    │   │   ├── SoftPagination
+    │   │   ├── SoftProgress
+    │   │   └── SoftTypography
+    │   ├── context
+    │   ├── examples
+    │   │   ├── Breadcrumbs
+    │   │   ├── Cards
+    │   │   ├── Charts
+    │   │   ├── Configurator
+    │   │   ├── Footer
+    │   │   ├── Icons
+    │   │   ├── Items
+    │   │   ├── LayoutContainers
+    │   │   ├── Lists
+    │   │   ├── Navbars
+    │   │   ├── Sidenav
+    │   │   ├── Tables
+    │   │   └── Timeline
+    │   ├── layouts
+    │   │   ├── authentication
+    │   │   ├── billing
+    │   │   ├── dashboard
+    │   │   ├── profile
+    │   │   ├── rtl
+    │   │   ├── tables
+    │   │   └── virtual-reality
+    │   ├── App.js
+    │   ├── index.js
+    │   └── routes.js
+    ├── .eslintrc.json
+    ├── .prettierrc.json
+    ├── CHANGELOG.md
+    ├── ISSUE_TEMPLATE.md
+    ├── jsconfig.json
+    ├── LICENSE.md
+    ├── package.json
+    └── README.md
 ```
-### Second, add your profile information
-Create a markdown file in your folder following the convention `<YOUR-USERNAME>.md`. Ex.
 
-```
-_data/MonaTheOctocat/MonaTheOctocat.md
-```
-Copy the next template into your file, delete the boilerplate data and fill the information with yours.
-```
----
-name: FULLNAME-OR-NICKNAME # No longer than 28 characters
-institution: INSTITUTION-NAME 🚩 # no longer than 58 characters
-quote: YOUR-SENIOR-QUOTE # no longer than 100 characters, avoid using quotes(") to guarantee the format remains the same.
-github_user: YOUR-GITHUB-USERNAME
----
-```
+## Browser Support
 
-_Do not use special characters in the template above._
+At present, we officially aim to support the last two versions of the following browsers:
 
-### Third, submit your Pull Request
+<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
-Go through the checklist on the pull request template to guarantee your submission is valid. The GitHub Education team will review your application, approve and merge your submission if everything is correct. Otherwise, you will get notified of the changes requested in the pull request comment section. 
+## Resources
 
-# 3. Share your story of a teacher who made an impact 👩‍🏫👨‍🏫
-This year, we want to hear stories of teachers or educators who made a difference on your journey in 2021. Similar to last year's ["A Message to the Octograds"](https://www.youtube.com/watch?v=w5HykygC43Y&t=7s) video, we're putting together a compilation of your stories. Every participant will level up their swag with an extra special design. To take part,
+- [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?ref=readme-sudr)
+- [Buy Page](https://www.creative-tim.com/product/soft-ui-dashboard-react?ref=readme-sudr)
+- Documentation is [here](https://www.creative-tim.com/learning-lab/react/overview/soft-ui-dashboard/?ref=readme-sudr)
+- [License Agreement](https://www.creative-tim.com/license?ref=readme-sudr)
+- [Support](https://www.creative-tim.com/contact-us?ref=readme-sudr)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/soft-ui-dashboard-react/issues)
+- [Nepcha Analytics](https://nepcha.com?ref=readme) - Analytics tool for your website
 
-1. [Fill out the video release form.](https://www.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=d460686d-c036-48b4-a69b-2095735affe8&env=na1&acct=8536c841-0a45-4d7f-836a-1d9cd83fec06&v=2)
-2. [Record and submit your video message.](https://github.com/education/GitHubGraduation-2021/files/6448974/GitHub.Graduation.Teacher.Video.Project.pdf) (full instructions for recording)
+## Reporting Issues
 
-Not sure what to say? Even a "thank-you teachers!" in your local language is appreciated to help us in honoring educators around the world.
+We use GitHub Issues as the official bug tracker for the Soft UI Dashboard React. Here are some advices for our users that want to report an issue:
 
-[Share your message to teachers.](https://github.com/education/GitHubGraduation-2021/files/6448974/GitHub.Graduation.Teacher.Video.Project.pdf)
+1. Make sure that you are using the latest version of the Soft UI Dashboard React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/soft-ui-dashboard-react?ref=readme-sudr).
+2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
+3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
-# A note on swag 🛍
-The first 5,000 successfully merged PRs will receive a custom holographic developer trading card with their GitHub status in the mail. 
+## Technical Support or Questions
 
-What does this mean? We will use your public GitHub profile information to create a trading card. To ensure your trading card best reflects you, please make sure your GitHub profile picture and bio are up to date and what you would like shown on the card.
+If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-sudr) instead of opening an issue.
 
-# Graduation Day 🎓
-Don't forget to watch the livestream! 
+## Licensing
 
-- 📆 Saturday, June 5, 2021
-- ⏰ 9:00am PT | 21:30 IST
-- 📍 Follow the [GitHub Education Twitch Channel](https://twitch.tv/githubeducation) for notifications.
-- 📎 [Add the event](http://www.google.com/calendar/event?action=TEMPLATE&dates=20210605T160000Z%2F20210605T180000Z&text=GitHub%20Graduation%202021%20%F0%9F%8E%93&location=twitch.tv%2Fgithubeducation&details=Join%20us%20on%20GitHub%20Campus%20TV%20to%20%22walk%20the%20stage%22%20and%20celebrate%20the%20accomplishments%20of%20this%20year%E2%80%99s%20graduating%20class%20with%20your%20fellow%20developers.%20) to your calendar (Google calendar invite).
+- Copyright 2021 [Creative Tim](https://www.creative-tim.com?ref=readme-sudr)
+- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-sudr)
+
+## Useful Links
+
+- [More products](https://www.creative-tim.com/templates?ref=readme-sudr) from Creative Tim
+
+- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
+
+- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-sudr) from Creative Tim
+
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-sudr) (earn money)
+
+##### Social Media
+
+Twitter: <https://twitter.com/CreativeTim>
+
+Facebook: <https://www.facebook.com/CreativeTim>
+
+Dribbble: <https://dribbble.com/creativetim>
+
+Google+: <https://plus.google.com/+CreativetimPage>
+
+Instagram: <https://instagram.com/creativetimofficial>
